@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
-  <channel id="EP01">
-    <display-name>Black Clover Dublado - EP01</display-name>
-    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
-  </channel>
-  
-  <channel id="EP02">
-    <display-name>Black Clover Dublado - EP02</display-name>
+  <channel id="black_clover_channel">
+    <display-name>Black Clover Dublado</display-name>
     <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
   </channel>
 
-  <channel id="EP03">
-    <display-name>Black Clover Dublado - EP03</display-name>
-    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
-  </channel>
-
-  <programme start="20241115120000 +0000" stop="20241115123000 +0000" channel="EP01">
-    <title>Black Clover Dublado - EP01</title>
-    <desc>Episódio 01 de Black Clover.</desc>
-  </programme>
-  
-  <programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="EP02">
-    <title>Black Clover Dublado - EP02</title>
-    <desc>Episódio 02 de Black Clover.</desc>
+  <programme start="20241115120000 +0000" stop="20241115123000 +0000" channel="black_clover_channel">
+    <title>EP01 - Um Novo Começo</title>
+    <desc>Descrição do primeiro episódio de Black Clover, onde Asta e Yuno são apresentados.</desc>
+    <category>Anime</category>
+    <episode-num system="xmltv_ns">1</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
 
-  <programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="EP03">
-    <title>Black Clover Dublado - EP03</title>
-    <desc>Episódio 03 de Black Clover.</desc>
+  <programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="black_clover_channel">
+    <title>EP02 - Promessa de Infância</title>
+    <desc>O segundo episódio de Black Clover, onde Asta e Yuno fazem promessas importantes.</desc>
+    <category>Anime</category>
+    <episode-num system="xmltv_ns">2</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+
+  <programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="black_clover_channel">
+    <title>EP03 - A Magia dos Cavaleiros Mágicos</title>
+    <desc>O terceiro episódio de Black Clover, onde Asta começa a treinar para ser um Cavaleiro Mágico.</desc>
+    <category>Anime</category>
+    <episode-num system="xmltv_ns">3</episode-num>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
 </tv>
