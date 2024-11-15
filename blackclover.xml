@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20241115">
-<channel id="SporTV2.br"><display-name>SporTV 2</display-name><url>https://mi.tv</url></channel>
+<channel id=""><display-name>SporTV 2</display-name><url>https://mi.tv</url></channel>
+
+
 <channel id="SporTV3.br"><display-name>SporTV 3</display-name><url>https://mi.tv</url></channel>
+
+
+
 <channel id="SporTV.br"><display-name>SporTV</display-name><url>https://mi.tv</url></channel>
