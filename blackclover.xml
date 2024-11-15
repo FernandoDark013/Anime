@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="Black Clover Dublado">
+  <channel id="001">
     <display-name>Black Clover Dublado</display-name>
   </channel>
-  <programme start="20241115080000 +0000" stop="20241115090000 +0000" channel="Black Clover Dublado">
+  <programme start="20241115080000 +0000" stop="20241115090000 +0000" channel="001">
     <title>Episode 01</title>
     <desc>Descrição do episódio 01</desc>
   </programme>
