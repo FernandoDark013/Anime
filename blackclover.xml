@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv date="20241115">
   <channel id="EP01">
-    <display-name>Black Clover Dublado</display-name>
+    <display-name>Canal de Filmes 1</display-name>
+    <icon src="http://example.com/logo_canal1.png"/>
   </channel>
-  <programme start="20241115120000 +0000" stop="20241115130000 +0000" channel="EP01">
-    <title>Notícias da Manhã</title>
-    <desc>Resumo das principais notícias da manhã.</desc>
+
+  <channel id="filme_channel_2">
+    <display-name>Canal de Filmes 2</display-name>
+    <icon src="http://example.com/logo_canal2.png"/>
+  </channel>
+
+  <programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="EP01">
+    <title>O Grande Filme</title>
+    <desc>Uma emocionante aventura épica com muitos efeitos especiais.</desc>
+    <category>Filme</category>
+    <director>Diretor Famoso</director>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+
+  <programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="EP01">
+    <title>Comédia Divertida</title>
+    <desc>Uma comédia hilária que vai fazer você rir do começo ao fim.</desc>
+    <category>Comédia</category>
+    <director>Comediante Top</director>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+
+  <programme start="20241115160000 +0000" stop="20241115180000 +0000" channel="filme_channel_2">
+    <title>Drama Emocionante</title>
+    <desc>Uma história comovente sobre família e perseverança.</desc>
+    <category>Drama</category>
+    <director>Diretor Dramático</director>
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
 </tv>
-
-
-
 
 
 
