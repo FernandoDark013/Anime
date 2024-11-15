@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<api>
+<tv>
   <channel id="Black Clover Dublado">
-    <display-name lang="pt">Black Clover Dublado</display-name>
-    <category lang="pt">ANIME</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
+    <display-name>Black Clover Dublado</display-name>
   </channel>
-  <programme start="20170512043500 -0300" stop="20170512044000 -0300" channel="Black Clover Dublado">
-    <title lang="pt">Asta and Yuno</title>
-    <date>2017</date>
-    <desc lang="pt">Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios - livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti-magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!</desc>
-    <credits>
-      <director>fernando</director>
-    </credits>
+  <programme start="20241115080000 +0000" stop="20241115090000 +0000" channel="Black Clover Dublado">
+    <title>Episode 01</title>
+    <desc>Descrição do episódio 01</desc>
   </programme>
-</api>
+  <!-- Adicione mais programas conforme necessário -->
+</tv>
