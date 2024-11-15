@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241115">
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv date="20241115">
   <channel id="EP01">
-    <display-name>Canal 1</display-name>
+    <display-name>Black Clover Dublado</display-name>
   </channel>
-  
   <programme start="20241115120000 +0000" stop="20241115130000 +0000" channel="EP01">
     <title>Notícias da Manhã</title>
     <desc>Resumo das principais notícias da manhã.</desc>
-  </programme>
-  
-  <programme start="20241115130000 +0000" stop="20241115140000 +0000" channel="EP02">
-    <title>Programa de Entrevistas</title>
-    <desc>Entrevista com figuras importantes da atualidade.</desc>
   </programme>
 </tv>
 
