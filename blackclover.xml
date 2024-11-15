@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20241115">
-<channel id="EP01"><display-name>EP01</display-name><url></url></channel>
+
+  <channel id="EP01">
+    <display-name>Canal 1</display-name>
+  </channel>
+  
+  <programme start="20241115120000 +0000" stop="20241115130000 +0000" channel="EP01">
+    <title>Notícias da Manhã</title>
+    <desc>Resumo das principais notícias da manhã.</desc>
+  </programme>
+  
+  <programme start="20241115130000 +0000" stop="20241115140000 +0000" channel="EP02">
+    <title>Programa de Entrevistas</title>
+    <desc>Entrevista com figuras importantes da atualidade.</desc>
+  </programme>
+</tv>
 
 
-<channel id="SporTV3.br"><display-name>SporTV 3</display-name><url>https://mi.tv</url></channel>
 
 
 
-<channel id="SporTV.br"><display-name>SporTV</display-name><url>https://mi.tv</url></channel>
+
+
