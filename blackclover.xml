@@ -1,42 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv>
   <channel id="EP01">
-    <display-name>Canal de Filmes 1</display-name>
-    <icon src="http://example.com/logo_canal1.png"/>
+    <display-name>Black Clover Dublado - EP01</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
+  </channel>
+  
+  <channel id="EP02">
+    <display-name>Black Clover Dublado - EP02</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
   </channel>
 
-  <channel id="filme_channel_2">
-    <display-name>Canal de Filmes 2</display-name>
-    <icon src="http://example.com/logo_canal2.png"/>
+  <channel id="EP03">
+    <display-name>Black Clover Dublado - EP03</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
   </channel>
 
-  <programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="EP01">
-    <title>O Grande Filme</title>
-    <desc>Uma emocionante aventura épica com muitos efeitos especiais.</desc>
-    <category>Filme</category>
-    <director>Diretor Famoso</director>
-    <rating>
-      <value>PG-13</value>
-    </rating>
+  <programme start="20241115120000 +0000" stop="20241115123000 +0000" channel="EP01">
+    <title>Black Clover Dublado - EP01</title>
+    <desc>Episódio 01 de Black Clover.</desc>
+  </programme>
+  
+  <programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="EP02">
+    <title>Black Clover Dublado - EP02</title>
+    <desc>Episódio 02 de Black Clover.</desc>
   </programme>
 
-  <programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="filme_channel_1">
-    <title>Comédia Divertida</title>
-    <desc>Uma comédia hilária que vai fazer você rir do começo ao fim.</desc>
-    <category>Comédia</category>
-    <director>Comediante Top</director>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-
-  <programme start="20241115160000 +0000" stop="20241115180000 +0000" channel="filme_channel_2">
-    <title>Drama Emocionante</title>
-    <desc>Uma história comovente sobre família e perseverança.</desc>
-    <category>Drama</category>
-    <director>Diretor Dramático</director>
-    <rating>
-      <value>R</value>
-    </rating>
+  <programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="EP03">
+    <title>Black Clover Dublado - EP03</title>
+    <desc>Episódio 03 de Black Clover.</desc>
   </programme>
 </tv>
