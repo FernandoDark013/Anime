@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="01" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado", EP01
+#EXTINF:-1 tvg-id="EP01" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado", EP01
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/black-clover-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-id="01" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado",EP02
+#EXTINF:-1 tvg-id="EP02" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado",EP02
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/black-clover-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-id="01" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado",EP03
+#EXTINF:-1 tvg-id="EP03" tvg-name="Ktvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x" group-title="Black Clover Dublado",EP03
