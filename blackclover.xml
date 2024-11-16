@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="SporTV.br"><display-name>SporT </display-name><url>https://mi.tv</url></channel>
+<channel id="SporTV.br"><display-name>SporT </display-name><url></url></channel>
 </programme><programme start="20241116135000 +0000" stop="20241116160000 +0000" channel="SporTV.br"><title lang="pt">dragon ball-daima daima daima 05</title><desc lang="pt">DATA:2024  </desc><category lang="pt">Devido a uma conspiração, Goku e seus amigos são transformados em pequenos. Para consertar as coisas, eles partirão para um novo mundo! É uma grande aventura com ação intensa em um mundo desconhecido e misterioso. </category><image>https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/298acc932735d9a731ea39a3db6a613c.jpg</image></programme>
 </tv>
