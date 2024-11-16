@@ -1,52 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <!-- Definição do primeiro canal -->
   <channel id="black_clover_channel">
-    <display-name>Black Clover Dublado</display-name>
-    <icon src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a3a4bcda-79b7-418c-9e78-9e4eaf656f89/1920x"/>
+    <display-name>black_clover_channel</display-name>
+    <icon src="https://example.com/logo_canal1.png"/>
   </channel>
 
-  <programme start="20241115120000 +0000" stop="20241115123000 +0000" channel="black_clover_channel">
-    <title>EP01 - Um Novo Começo</title>
-    <desc>Descrição do primeiro episódio de Black Clover, onde Asta e Yuno são apresentados.</desc>
-    <category>Anime</category>
-    <episode-num system="xmltv_ns">1</episode-num>
+  <!-- Definição do segundo canal -->
+  <channel id="filme_channel_2">
+    <display-name>Canal de Filmes 2</display-name>
+    <icon src="https://example.com/logo_canal2.png"/>
+  </channel>
+
+  <!-- Definição dos programas para o Canal 1 -->
+  <programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="black_clover_channel">
+    <title>O Grande Filme</title>
+    <desc>Uma emocionante aventura épica com muitos efeitos especiais.</desc>
+    <category>Filme</category>
+    <director>Diretor Famoso</director>
     <rating>
       <value>PG-13</value>
     </rating>
-    <credits>
-      <director>Diretor Famoso</director>
-      <actor>Asta - Ator A</actor>
-      <actor>Yuno - Ator B</actor>
-    </credits>
+    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/o-grande-filme.mp4/index.m3u8</url>
   </programme>
 
-  <programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="black_clover_channel">
-    <title>EP02 - Promessa de Infância</title>
-    <desc>O segundo episódio de Black Clover, onde Asta e Yuno fazem promessas importantes.</desc>
-    <category>Anime</category>
-    <episode-num system="xmltv_ns">2</episode-num>
+  <programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="filme_channel_1">
+    <title>Comédia Divertida</title>
+    <desc>Uma comédia hilária que vai fazer você rir do começo ao fim.</desc>
+    <category>Comédia</category>
+    <director>Comediante Top</director>
     <rating>
-      <value>PG-13</value>
+      <value>PG</value>
     </rating>
-    <credits>
-      <director>Diretor Famoso</director>
-      <actor>Asta - Ator A</actor>
-      <actor>Yuno - Ator B</actor>
-    </credits>
+    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/comedia-divertida.mp4/index.m3u8</url>
   </programme>
 
-  <programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="black_clover_channel">
-    <title>EP03 - A Magia dos Cavaleiros Mágicos</title>
-    <desc>O terceiro episódio de Black Clover, onde Asta começa a treinar para ser um Cavaleiro Mágico.</desc>
-    <category>Anime</category>
-    <episode-num system="xmltv_ns">3</episode-num>
+  <!-- Definição dos programas para o Canal 2 -->
+  <programme start="20241115160000 +0000" stop="20241115180000 +0000" channel="filme_channel_2">
+    <title>Drama Emocionante</title>
+    <desc>Uma história comovente sobre família e perseverança.</desc>
+    <category>Drama</category>
+    <director>Diretor Dramático</director>
     <rating>
-      <value>PG-13</value>
+      <value>R</value>
     </rating>
-    <credits>
-      <director>Diretor Famoso</director>
-      <actor>Asta - Ator A</actor>
-      <actor>Yuno - Ator B</actor>
-    </credits>
+    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/drama-emocionante.mp4/index.m3u8</url>
   </programme>
 </tv>
