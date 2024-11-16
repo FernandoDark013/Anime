@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="movie_channel_1" tvg-name="Canal de Filmes 1" tvg-logo="http://example.com/logo_canal1.png" group-title="Filmes", O Grande Filme
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/o-grande-filme.mp4/index.m3u8
-#EXTINF:-1 tvg-id="movie_channel_1" tvg-name="Canal de Filmes 1" tvg-logo="http://example.com/logo_canal1.png" group-title="Filmes", Comédia Divertida
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/comedia-divertida.mp4/index.m3u8
-#EXTINF:-1 tvg-id="movie_channel_1" tvg-name="Canal de Filmes 1" tvg-logo="http://example.com/logo_canal1.png" group-title="Filmes", Drama Emocionante
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/drama-emocionante.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ktvg-logo="https://logos-world.net/wp-content/uploads/2021/12/SporTV-Logo.png" group-title="CANAIS | ESPORTES", SPORTV
+https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ktvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="CANAIS | ESPORTES", SPORTV 2
+https://super-cdn.link/sportv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ktvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES", SPORTV 3
+https://super-cdn.link/sportv3/tracks-v1a1/mono.m3u8
