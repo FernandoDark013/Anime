@@ -1,49 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- Definição do primeiro canal -->
-  <channel id="black_clover_channel">
-    <display-name>black_clover_channel</display-name>
-    <icon src="https://example.com/logo_canal1.png"/>
+  <!-- Definição do canal -->
+  <channel id="movie_channel_1">
+    <display-name>Canal de Filmes 1</display-name>
+    <icon src="http://example.com/logo_canal1.png"/>
   </channel>
 
-  <!-- Definição do segundo canal -->
-  <channel id="filme_channel_2">
-    <display-name>Canal de Filmes 2</display-name>
-    <icon src="https://example.com/logo_canal2.png"/>
-  </channel>
-
-  <!-- Definição dos programas para o Canal 1 -->
-  <programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="black_clover_channel">
+  <!-- Definição dos programas (filmes) para o Canal 1 -->
+  <programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="movie_channel_1">
     <title>O Grande Filme</title>
+    <year>2020</year>
     <desc>Uma emocionante aventura épica com muitos efeitos especiais.</desc>
     <category>Filme</category>
     <director>Diretor Famoso</director>
     <rating>
       <value>PG-13</value>
     </rating>
-    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/o-grande-filme.mp4/index.m3u8</url>
+    <episode-num system="xmltv_ns">1</episode-num>
   </programme>
 
-  <programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="filme_channel_1">
+  <programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="movie_channel_1">
     <title>Comédia Divertida</title>
+    <year>2019</year>
     <desc>Uma comédia hilária que vai fazer você rir do começo ao fim.</desc>
     <category>Comédia</category>
     <director>Comediante Top</director>
     <rating>
       <value>PG</value>
     </rating>
-    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/comedia-divertida.mp4/index.m3u8</url>
+    <episode-num system="xmltv_ns">2</episode-num>
   </programme>
 
-  <!-- Definição dos programas para o Canal 2 -->
-  <programme start="20241115160000 +0000" stop="20241115180000 +0000" channel="filme_channel_2">
+  <programme start="20241115180000 +0000" stop="20241115200000 +0000" channel="movie_channel_1">
     <title>Drama Emocionante</title>
+    <year>2021</year>
     <desc>Uma história comovente sobre família e perseverança.</desc>
     <category>Drama</category>
     <director>Diretor Dramático</director>
     <rating>
       <value>R</value>
     </rating>
-    <url>https://cdn01-s1.mywallpaper-cdn-4k.com/stream/B/drama-emocionante.mp4/index.m3u8</url>
+    <episode-num system="xmltv_ns">3</episode-num>
   </programme>
 </tv>
