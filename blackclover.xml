@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <channel id="black_clover_channel">
     <display-name>Black Clover Dublado</display-name>
@@ -13,6 +13,11 @@
     <rating>
       <value>PG-13</value>
     </rating>
+    <credits>
+      <director>Diretor Famoso</director>
+      <actor>Asta - Ator A</actor>
+      <actor>Yuno - Ator B</actor>
+    </credits>
   </programme>
 
   <programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="black_clover_channel">
@@ -23,6 +28,11 @@
     <rating>
       <value>PG-13</value>
     </rating>
+    <credits>
+      <director>Diretor Famoso</director>
+      <actor>Asta - Ator A</actor>
+      <actor>Yuno - Ator B</actor>
+    </credits>
   </programme>
 
   <programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="black_clover_channel">
@@ -33,5 +43,10 @@
     <rating>
       <value>PG-13</value>
     </rating>
+    <credits>
+      <director>Diretor Famoso</director>
+      <actor>Asta - Ator A</actor>
+      <actor>Yuno - Ator B</actor>
+    </credits>
   </programme>
 </tv>
