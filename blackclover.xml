@@ -2,7 +2,7 @@
 <tv>
   <!-- Definição do canal -->
   <channel id="SporTV2.br">
-    <display-name>T 1 EP1 </display-name>
+    <display-name>T 1 EP 1 </display-name>
     <url>https://mi.tv</url>
   </channel>
   <channel id="SporTV2.br">
