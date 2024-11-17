@@ -3,11 +3,9 @@
   <!-- Definição do canal -->
   <channel id="onepience01">
     <display-name>1 TEMPORADA 1 EPISÓDIO</display-name>
-    <url>https://mi.tv</url>
   </channel>
   <channel id="onepience02">
-    <display-name>T01 EP02</display-name>
-    <url>https://mi.tv</url>
+    <display-name>1 TEMPORADA 2 EPISÓDIO</display-name>
   </channel>
 
   <!-- Definição dos programas -->
