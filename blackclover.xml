@@ -2,11 +2,11 @@
 <tv>
   <!-- Definição do canal -->
   <channel id="SporTV2.br">
-    <display-name>One Piece </display-name>
+    <display-name>EPISÓDIO 01</display-name>
     <url>https://mi.tv</url>
   </channel>
   <channel id="SporTV2.br">
-    <display-name>One Piece 2</display-name>
+    <display-name> </display-name>
     <url>https://mi.tv</url>
   </channel>
 
