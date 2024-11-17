@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- Definição do canal -->
+  <!-- one-piece-dublado -->
   <channel id="onepience01">
     <display-name>1 TEMPORADA 1 EPISÓDIO</display-name>
   </channel>
@@ -46,7 +46,10 @@
     <channel id="onepience15">
     <display-name>1 TEMPORADA 15 EPISÓDIO</display-name>
   </channel>
-
+  <!-- dandadan Dublado -->
+  	<channel id="dandadan01">
+    <display-name>1 TEMPORADA 1 EPISÓDIO</display-name>
+  </channel>
   <!-- Definição dos programas -->
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience01">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
@@ -155,5 +158,12 @@
     <desc lang="pt">kkj</desc>
     <category lang="pt">ANIME</category>
     <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  
+    <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="dandadan01">
+    <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
+    <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que sonha em transformar-se no Rei dos Piratas.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1d70bc99-cd4b-4060-b717-64c772166bcb/209d17af2924e567ad0b5e9b8254ef05f90fada3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320</image>
   </programme>
 </tv>
