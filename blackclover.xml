@@ -10,6 +10,42 @@
   <channel id="onepience03">
     <display-name>1 TEMPORADA 3 EPISÓDIO</display-name>
   </channel>
+    <channel id="onepience04">
+    <display-name>1 TEMPORADA 4 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience05">
+    <display-name>1 TEMPORADA 5 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience06">
+    <display-name>1 TEMPORADA 6 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience07">
+    <display-name>1 TEMPORADA 7 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience08">
+    <display-name>1 TEMPORADA 8 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience09">
+    <display-name>1 TEMPORADA 9 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience10">
+    <display-name>1 TEMPORADA 10 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience11">
+    <display-name>1 TEMPORADA 11 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience12">
+    <display-name>1 TEMPORADA 12 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience13">
+    <display-name>1 TEMPORADA 13 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience14">
+    <display-name>1 TEMPORADA 14 EPISÓDIO</display-name>
+  </channel>
+    <channel id="onepience15">
+    <display-name>1 TEMPORADA 15 EPISÓDIO</display-name>
+  </channel>
 
   <!-- Definição dos programas -->
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience01">
@@ -28,6 +64,96 @@
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience03">
     <title lang="pt">Morgan vs. Luffy!</title>
     <desc lang="pt">Luffy oferece a liberdade à Zoro para que ele seja seu companheiro, mas o tirano Capitão Morgan quer suas cabeças.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+    <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience04">
+    <title lang="pt">O Passado de Luffy! Entra em Cena Shanks, o Ruivo!</title>
+    <desc lang="pt">Navegando ao lado de Zoro, Luffy relembra por que tomou a decisão de ser o Rei dos Piratas e o significado por trás de seu valioso chapéu de palha, um presente de Shanks.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience05">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience06">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience07">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience08">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience09">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience10">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience11">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience12">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience13">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience14">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience15">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience16">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience17">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience03">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
     <category lang="pt">ANIME</category>
     <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
   </programme>
