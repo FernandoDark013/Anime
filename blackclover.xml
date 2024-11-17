@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <!-- Definição do canal -->
-  <channel id="One Piece">
+  <channel id="One_Piece01">
     <display-name> One Piece </display-name>
     <icon src="https://cdn1.ozone.ru/s3/multimedia-8/6487602548.jpg"/>
   </channel>
   
-  <programme start="20241117072200 +0000" stop="20241117082200 +0000" channel="One Piece">
+  <programme start="20241117072200 +0000" stop="20241117082200 +0000" channel="One_Piece01">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
     <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que que sonha em transformar-se no Rei dos Piratas.</desc>
     <category>Anime</category>
