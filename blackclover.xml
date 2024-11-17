@@ -2,7 +2,7 @@
 <tv>
   <!-- Definição do canal -->
   <channel id="onepience">
-    <display-name>One Piece</display-name>
+    <display-name> EP 01</display-name>
     <icon src="https://cdn1.ozone.ru/s3/multimedia-8/6487602548.jpg"/>
   </channel>
 
@@ -10,7 +10,7 @@
   <programme start="20241116073000 +0000" stop="20241117033000 "channel="onepience">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
     <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que que sonha em transformar-se no Rei dos Piratas.</desc>
-    <category>Anime</category>
+    <category> | Anime | ano |</category>
     <image>https://cdn1.ozone.ru/s3/multimedia-8/6487602548.jpg</image>
   </programme>
 P
