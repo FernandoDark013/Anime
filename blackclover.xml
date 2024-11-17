@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	
 <tv>
-<channel id="SporTV.br"><display-name>One Piece </display-name><url>https://mi.tv</url></channel>
-<programme start="20241117000000 +0000" stop="20241117023000 +0000" channel="SporTV.br"><title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title><desc lang="pt">Temporada 1, Episódio 1
-: O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que que sonha em transformar-se no Rei dos Piratas.</desc><category lang="pt">ANIME</category><image>https://cdn.mitvstatic.com/programs/br_soccer-ponte-preta-x-sport-4_l_m.jpg</image></programme>
+  <!-- Definição do canal -->
+  <channel id="onepience">
+    <display-name>One Piece </display-name>
+    <icon src="https://logos-world.net/wp-content/uploads/2021/12/SporTV-Logo.png"/>
+  </channel>
+
+  <!-- Definição do programa -->
+  <programme start="20241116073000 +0000"" stop="20260101020000 +0000" channel="onepience">
+    <title lang="pt">One Piece</title>
+    <desc lang="pt">Uma aventura emocionante no mundo de One Piece, onde Luffy e seus amigos enfrentam desafios épicos.</desc>
+    <category>Anime</category>
+    <image>https://logos-world.net/wp-content/uploads/2021/12/SporTV-Logo.png</image>
+  </programme>
+
+  <!-- Adicione mais programas conforme necessário -->
 </tv>
