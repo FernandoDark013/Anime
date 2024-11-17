@@ -12,8 +12,10 @@
   <programme start="20241117072200 +0000" stop="20261118082200 +0000" channel="onepience01">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
     <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que sonha em transformar-se no Rei dos Piratas.</desc>
-    <category lang="pt">ANIME</category> 
+    <category lang="pt">ANIME</category>
+    <image>https://cdn.mitvstatic.com/programs/br_soccer-franca-x-israel_l_m.jpg</image>
   </programme>
+
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience02">
     <title lang="pt">O Caçador de Piratas, Roronoa Zoro!</title>
     <desc lang="pt">Luffy está empenhado em conseguir membros para a sua tripulação e, após ouvir rumores de que Roronoa Zoro, o Caçador de Piratas, está preso na base da Marinha, ele e seu novo companheiro Coby partem em busca do famigerado pirata.</desc>
