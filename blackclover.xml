@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	
 <tv>
-<channel id="SporTV.br"><display-name>SporTV</display-name><url>https://mi.tv</url></channel>
+<channel id="SporTV.br"><display-name>One Piece </display-name><url>https://mi.tv</url></channel>
 <programme start="20241117000000 +0000" stop="20241117023000 +0000" channel="SporTV.br"><title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title><desc lang="pt">Temporada 1, Episódio 1
 : O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que que sonha em transformar-se no Rei dos Piratas.</desc><category lang="pt">ANIME</category><image>https://cdn.mitvstatic.com/programs/br_soccer-ponte-preta-x-sport-4_l_m.jpg</image></programme>
 </tv>
