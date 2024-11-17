@@ -12,5 +12,11 @@
     <category> | Anime | ano |</category>
     <image>https://cdn1.ozone.ru/s3/multimedia-8/6487602548.jpg</image>
   </programme>
+    <programme start="20241116073000 +0000" stop="20241117033000 "channel="onepience">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category> | Anime | ano |</category>
+    <image>https://cdn1.ozone.ru/s3/multimedia-8/6487602548.jpg</image>
+  </programme>
 
 </tv>
