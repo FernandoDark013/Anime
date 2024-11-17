@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <!-- Definição do canal -->
-  <channel id="onepience01r">
+  <channel id="onepience01">
     <display-name>T01 EP01</display-name>
     <url>https://mi.tv</url>
   </channel>
