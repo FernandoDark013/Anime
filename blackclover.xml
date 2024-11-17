@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <!-- Definição do canal -->
-  <channel id="onepience01">
+  <channel id="SporTV2.br">
     <display-name>T01 EP01</display-name>
     <url>https://mi.tv</url>
   </channel>
@@ -11,7 +11,7 @@
   </channel>
 
   <!-- Definição do programa -->
-  <programme start="20241117072200 +0000" stop="20261118082200 +0000" channel="onepience01">
+  <programme start="20241117072200 +0000" stop="20261118082200 +0000" channel="SporTV2.br">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
     <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que que sonha em transformar-se no Rei dos Piratas.</desc>
     <category lang="pt">ANIME</category>
