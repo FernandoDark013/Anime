@@ -6,51 +6,17 @@
   </channel>
   <channel id="onepience02">
     <display-name>1 TEMPORADA 2 EPISÓDIO</display-name>
-  </channel>
-  <channel id="onepience03">
-    <display-name>1 TEMPORADA 3 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience04">
-    <display-name>1 TEMPORADA 4 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience05">
-    <display-name>1 TEMPORADA 5 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience06">
-    <display-name>1 TEMPORADA 6 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience07">
-    <display-name>1 TEMPORADA 7 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience08">
-    <display-name>1 TEMPORADA 8 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience09">
-    <display-name>1 TEMPORADA 9 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience10">
-    <display-name>1 TEMPORADA 10 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience11">
-    <display-name>1 TEMPORADA 11 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience12">
-    <display-name>1 TEMPORADA 12 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience13">
-    <display-name>1 TEMPORADA 13 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience14">
-    <display-name>1 TEMPORADA 14 EPISÓDIO</display-name>
-  </channel>
-    <channel id="onepience15">
-    <display-name>1 TEMPORADA 15 EPISÓDIO</display-name>
-  </channel>
-  <!-- dandadan Dublado -->
-  	<channel id="dandadan01">
+   <!-- dandadan Dublado -->
+ </channel>
+  <channel id="dandadan01">
     <display-name>1 TEMPORADA 1 EPISÓDIO</display-name>
   </channel>
-  <!-- Definição dos programas -->
+  <channel id="dandadan02">
+    <display-name>1 TEMPORADA 2 EPISÓDIO</display-name>
+  </channel>
+
+  <!-- dandadan Dublado -->
+  
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience01">
     <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
     <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que sonha em transformar-se no Rei dos Piratas.</desc>
@@ -58,6 +24,18 @@
     <image>https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1d70bc99-cd4b-4060-b717-64c772166bcb/209d17af2924e567ad0b5e9b8254ef05f90fada3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320</image>
   </programme>
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience02">
+    <title lang="pt">O Caçador de Piratas, Roronoa Zoro!</title>
+    <desc lang="pt">Luffy está empenhado em conseguir membros para a sua tripulação e, após ouvir rumores de que Roronoa Zoro, o Caçador de Piratas, está preso na base da Marinha, ele e seu novo companheiro Coby partem em busca do famigerado pirata.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+   </programme>
+     <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience01">
+    <title lang="pt">Eu Sou o Luffy! O Futuro Rei dos Piratas!</title>
+    <desc lang="pt">O bando de Alvida saqueia um navio, e acaba encontrando Luffy, um garoto que sonha em transformar-se no Rei dos Piratas.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1d70bc99-cd4b-4060-b717-64c772166bcb/209d17af2924e567ad0b5e9b8254ef05f90fada3.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="dandadan02">
     <title lang="pt">O Caçador de Piratas, Roronoa Zoro!</title>
     <desc lang="pt">Luffy está empenhado em conseguir membros para a sua tripulação e, após ouvir rumores de que Roronoa Zoro, o Caçador de Piratas, está preso na base da Marinha, ele e seu novo companheiro Coby partem em busca do famigerado pirata.</desc>
     <category lang="pt">ANIME</category>
