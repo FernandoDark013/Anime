@@ -7,6 +7,9 @@
   <channel id="onepience02">
     <display-name>1 TEMPORADA 2 EPISÓDIO</display-name>
   </channel>
+  <channel id="onepience03">
+    <display-name>1 TEMPORADA 3 EPISÓDIO</display-name>
+  </channel>
 
   <!-- Definição dos programas -->
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience01">
@@ -19,6 +22,12 @@
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience02">
     <title lang="pt">O Caçador de Piratas, Roronoa Zoro!</title>
     <desc lang="pt">Luffy está empenhado em conseguir membros para a sua tripulação e, após ouvir rumores de que Roronoa Zoro, o Caçador de Piratas, está preso na base da Marinha, ele e seu novo companheiro Coby partem em busca do famigerado pirata.</desc>
+    <category lang="pt">ANIME</category>
+    <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
+  </programme>
+  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="onepience03">
+    <title lang="pt">Morgan vs. Luffy!</title>
+    <desc lang="pt">Luffy oferece a liberdade à Zoro para que ele seja seu companheiro, mas o tirano Capitão Morgan quer suas cabeças.</desc>
     <category lang="pt">ANIME</category>
     <image>https://is1-ssl.mzstatic.com/image/thumb/8dcr3JAZLj2ysYJaX2f96Q/1200x675.jpg</image>
   </programme>
