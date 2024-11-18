@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-
   <!-- Definição do canal -->
   <channel id="dandadan01">
     <display-name>DANDADAN T1 EP1</display-name>
+    <icon src="https://example.com/dandadan-icon.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
-  
-  <!-- Definição do programa -->
-  <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="dandadan01">
-    <title lang="pt">Título</title>
-    <desc lang="pt">Descrição</desc>
-    <category lang="pt">Gênero</category>
-    <image>https://example.com/imagem.jpg</image>
-  </programme>
 
+  <!-- Definição do programa -->
+  <programme start="20241117072200 +0000" stop="20241117102200 +0000" channel="dandadan01">
+    <title lang="pt">Dandadan - Episódio 1</title>
+    <desc lang="pt">Primeiro episódio de Dandadan dublado, uma aventura cheia de ação e mistérios sobrenaturais.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep1.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
 </tv>
