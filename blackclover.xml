@@ -13,6 +13,10 @@
     <display-name>T1 EP3</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
+  <channel id="dandadan03">
+    <display-name>T1 EP4</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
 
   <!-- Definição dos programas -->
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan01">
@@ -30,6 +34,18 @@
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
     <title lang="pt">3. Uma disputa de velha contra velha</title>
     <desc lang="pt">Depois de suprimir temporariamente o espírito maligno em Okarun, a avó de Momo sugere que talvez uma brincadeira de pega-pega o derrote de uma vez por todas.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan04">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
