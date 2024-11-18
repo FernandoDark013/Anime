@@ -7,7 +7,7 @@
   </channel>
 
   <!-- Definição do programa -->
-  <programme start="20241118072200 +0000" stop="20261119102200 +0000" channel="dandadan01">
+  <programme start="20241118072200 +0000" stop="20251119102200 +0000" channel="dandadan01">
     <title lang="pt">Dandadan - Episódio 1</title>
     <desc lang="pt">Primeiro episódio de Dandadan dublado, uma aventura cheia de ação e mistérios sobrenaturais.</desc>
     <category lang="pt">Anime</category>
