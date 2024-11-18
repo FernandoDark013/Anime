@@ -3,7 +3,7 @@
   <!-- Definição do canal -->
   <channel id="dandadan01">
     <display-name>DANDADAN T1 EP1</display-name>
-    <icon src="https://example.com/dandadan-icon.jpg"/> <!-- Substitua pela URL real da imagem -->
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
 
   <!-- Definição do programa -->
