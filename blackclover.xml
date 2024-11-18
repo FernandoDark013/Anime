@@ -5,11 +5,21 @@
     <display-name>T1 EP1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
+    <channel id="dandadan01">
+    <display-name>T1 EP2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
 
   <!-- Definição dos programas -->
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan01">
     <title lang="pt">1. É assim que um amor começa!</title>
     <desc lang="pt">Momo é uma adolescente que acredita em fantasmas, mas não em alienígenas. Um belo dia, ela discute com um colega obcecado por OVNIs e cético com relação a espíritos.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://staticg.sportskeeda.com/editor/2023/11/37a03-17011073677111-1920.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan02">
+    <title lang="pt"></title>
+    <desc lang="pt"></desc>
     <category lang="pt">Anime</category>
     <image>https://staticg.sportskeeda.com/editor/2023/11/37a03-17011073677111-1920.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
