@@ -5,10 +5,6 @@
     <display-name>DANDADAN T1 EP1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
-  <channel id="dandadan02">
-    <display-name>DANDADAN T1 EP2</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
-  </channel>
 
   <!-- Definição dos programas -->
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan01">
@@ -16,11 +12,5 @@
     <desc lang="pt">Momo é uma adolescente que acredita em fantasmas, mas não em alienígenas. Um belo dia, ela discute com um colega obcecado por OVNIs e cético com relação a espíritos.</desc>
     <category lang="pt">Anime</category>
     <image>https://staticg.sportskeeda.com/editor/2023/11/37a03-17011073677111-1920.jpg</image> <!-- Substitua pela URL real da imagem -->
-  </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan02">
-    <title lang="pt">Dandadan - Episódio 2</title>
-    <desc lang="pt">Segundo episódio de Dandadan dublado, continuando a aventura cheia de ação e mistérios sobrenaturais.</desc>
-    <category lang="pt">Anime</category>
-    <image>https://example.com/dandadan-ep2.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
 </tv>
