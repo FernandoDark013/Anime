@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
 
-   <!-- dandadan Dublado -->
- 
+  <!-- Definição do canal -->
   <channel id="dandadan01">
-    <display-name>DANDADAN  T1 EP1</display-name>
-</channel>
-  <!-- dandadan Dublado -->
+    <display-name>DANDADAN T1 EP1</display-name>
+  </channel>
   
-  </programme>
+  <!-- Definição do programa -->
   <programme start="20241117072200 +0000" stop="20241118082200 +0000" channel="dandadan01">
-    <title lang="pt">título </title>
-    <desc lang="pt">descrição </desc>
-    <category lang="pt">gênero </category>
-    <image>imagem</image>
-   </programme>
-   </tv>
+    <title lang="pt">Título</title>
+    <desc lang="pt">Descrição</desc>
+    <category lang="pt">Gênero</category>
+    <image>https://example.com/imagem.jpg</image>
+  </programme>
+
+</tv>
