@@ -5,13 +5,24 @@
     <display-name>DANDADAN </display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
+  <channel id="dandadan02">
+    <display-name>DANDADAN </display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
 
   <!-- Definição do programa -->
   <programme start="20241118072200 +0000" stop="20241129102200 +0000" channel="dandadan01">
     <title lang="pt">Dandadan - Episódio 1</title>
     <desc lang="pt">Primeiro episódio de Dandadan dublado, uma aventura cheia de ação e mistérios sobrenaturais.</desc>
     <category lang="pt">Anime</category>
-       <data lang="pt"></data>
+       <data lang="pt">2024 </data>
+    <image>https://example.com/dandadan-ep1.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+  <programme start="20241118072200 +0000" stop="20241129102200 +0000" channel="dandadan02">
+    <title lang="pt">Dandadan - Episódio 1</title>
+    <desc lang="pt">Primeiro episódio de Dandadan dublado, uma aventura cheia de ação e mistérios sobrenaturais.</desc>
+    <category lang="pt">Anime</category>
+       <data lang="pt">2024 </data>
     <image>https://example.com/dandadan-ep1.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
 </tv>
