@@ -5,7 +5,7 @@
     <display-name>T1 EP1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
-    <channel id="dandadan02">
+   <channel id="dandadan02">
     <display-name>T1 EP2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
