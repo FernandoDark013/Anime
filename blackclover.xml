@@ -2,19 +2,19 @@
 <tv>
   <!-- Definição dos canais -->
   <channel id="dandadan01">
-    <display-name>T1 EP1</display-name>
+    <display-name>01</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan02">
-    <display-name>T1 EP2</display-name>
+    <display-name>02</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan03">
-    <display-name>T1 EP3</display-name>
+    <display-name>03</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan04">
-    <display-name>T1 EP4</display-name>
+    <display-name>04</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
 
