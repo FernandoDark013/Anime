@@ -2,7 +2,7 @@
 <tv>
   <!-- Definição dos canais -->
   <channel id="dandadan01">
-    <display-name>EPISÓDIO 1</display-name>
+    <display-name>EPISÓDIO_1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan02">
@@ -34,7 +34,7 @@
   </channel>
 
 <!-- Definição dos programas -->
-  <programme start="20241118072200 +0000" stop="20241118092200 +0000" channel="dandadan01">
+  <programme start="20241118072200 +0000" stop="20241120092200 +0000" channel="dandadan01">
     <title lang="pt">1. É assim que um amor começa!</title>
     <desc lang="pt">Momo é uma adolescente que acredita em fantasmas, mas não em alienígenas. Um belo dia, ela discute com um colega obcecado por OVNIs e cético com relação a espíritos.</desc>
     <category lang="pt">Anime</category>
