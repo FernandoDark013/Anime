@@ -2,19 +2,34 @@
 <tv>
   <!-- Definição dos canais -->
   <channel id="dandadan01">
-    <display-name>01</display-name>
+    <display-name>EPISÓDIO 1</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan02">
-    <display-name>02</display-name>
+    <display-name>EPISÓDIO 2</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan03">
-    <display-name>03</display-name>
+    <display-name>EPISÓDIO 3</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
   <channel id="dandadan04">
-    <display-name>04</display-name>
+    <display-name>EPISÓDIO 4</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
+  </channel>
+  <channel id="dandadan05">
+    <display-name>EPISÓDIO 5</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
+  </channel>
+  <channel id="dandadan06">
+    <display-name>EPISÓDIO 6</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
+  </channel>
+  </channel>
+  <channel id="dandadan07">
+    <display-name>EPISÓDIO 7</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/64/Dandadan.cover_1.jpg/460px-Dandadan.cover_1.jpg"/> <!-- Substitua pela URL real da imagem -->
   </channel>
 
@@ -23,7 +38,7 @@
     <title lang="pt">1. É assim que um amor começa!</title>
     <desc lang="pt">Momo é uma adolescente que acredita em fantasmas, mas não em alienígenas. Um belo dia, ela discute com um colega obcecado por OVNIs e cético com relação a espíritos.</desc>
     <category lang="pt">Anime</category>
-    <image>https://example.com/dandadan-ep1.jpg</image> <!-- Substitua pela URL real da imagem -->
+    <image>https://occ-0-2147-420.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUgzzEg8pnSuqGJea56iUUsJEAFitWlmJy9wqSe53vFX-J-5usuG1jvDgbqbdwvRo-QWd5Dmz9Qr5HX7526anA2KdIGB2ajrWWWe14ILpExaMvIU8EkjfiKE.jpg?r=894</image> <!-- Substitua pela URL real da imagem -->
   </programme>
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan02">
     <title lang="pt">2. Isso aí é um alienígena, né?</title>
@@ -38,12 +53,36 @@
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
   <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan04">
+    <title lang="pt">4. Hora de arrebentar com a Velha Turbo</title>
+    <desc lang="pt">Okarun e Momo chegam ao túnel para enfrentar a Velha Turbo. Quando acreditam ter vencido, o espírito de um caranguejo gigante atravessa a parede.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan05">
+    <title lang="pt">5. Cadê tuas bolas, cara?</title>
+    <desc lang="pt"></desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan06">
+    <title lang="pt">6. Surge uma mulher perigosa</title>
+    <desc lang="pt">A Velha Turbo revela que os órgãos perdidos de Okarun estão dentro de bolas de ouro. Aira, que encontrou uma delas, agora consegue ver espíritos.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan07">
+    <title lang="pt">7. Rumo a um mundo gentil</title>
+    <desc lang="pt">Momo e Okarun conseguem enfraquecer Sedosa Acrobata e fazem uma descoberta chocante sobre Aira. Sedosa Acrobata sugere uma solução surpreendente.</desc>
+    <category lang="pt">Anime</category>
+    <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
+  </programme>
+    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
     <title lang="pt"></title>
     <desc lang="pt"></desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
+    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
     <title lang="pt"></title>
     <desc lang="pt"></desc>
     <category lang="pt">Anime</category>

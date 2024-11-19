@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", 01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 1
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/01-.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", 02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 2
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", 03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 3
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", 04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  4
 https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/04.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  5
+https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/05.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  6
+https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/06.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  7
+https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/07.mp4/index.m3u8
