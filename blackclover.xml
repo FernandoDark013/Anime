@@ -34,49 +34,49 @@
   </channel>
 
   <!-- Definição dos programas -->
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan01">
+  <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan01">
     <title lang="pt">1. É assim que um amor começa!</title>
     <desc lang="pt">Momo é uma adolescente que acredita em fantasmas, mas não em alienígenas. Um belo dia, ela discute com um colega obcecado por OVNIs e cético com relação a espíritos.</desc>
     <category lang="pt">Anime</category>
     <image>https://occ-0-2147-420.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUgzzEg8pnSuqGJea56iUUsJEAFitWlmJy9wqSe53vFX-J-5usuG1jvDgbqbdwvRo-QWd5Dmz9Qr5HX7526anA2KdIGB2ajrWWWe14ILpExaMvIU8EkjfiKE.jpg?r=894</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan02">
+  <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan02">
     <title lang="pt">2. Isso aí é um alienígena, né?</title>
     <desc lang="pt">Momo leva Ken para casa e decide chamá-lo de Okarun. Surge um enorme extraterrestre e os ataca.</desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep2.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
+  <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan03">
     <title lang="pt">3. Uma disputa de velha contra velha</title>
     <desc lang="pt">Depois de suprimir temporariamente o espírito maligno em Okarun, a avó de Momo sugere que talvez uma brincadeira de pega-pega o derrote de uma vez por todas.</desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan04">
+  <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan04">
     <title lang="pt">4. Hora de arrebentar com a Velha Turbo</title>
     <desc lang="pt">Okarun e Momo chegam ao túnel para enfrentar a Velha Turbo. Quando acreditam ter vencido, o espírito de um caranguejo gigante atravessa a parede.</desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-  <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan05">
+  <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan05">
     <title lang="pt">5. Cadê tuas bolas, cara?</title>
     <desc lang="pt"></desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan06">
+    <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan06">
     <title lang="pt">6. Surge uma mulher perigosa</title>
     <desc lang="pt">A Velha Turbo revela que os órgãos perdidos de Okarun estão dentro de bolas de ouro. Aira, que encontrou uma delas, agora consegue ver espíritos.</desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan07">
+    <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan07">
     <title lang="pt">7. Rumo a um mundo gentil</title>
     <desc lang="pt">Momo e Okarun conseguem enfraquecer Sedosa Acrobata e fazem uma descoberta chocante sobre Aira. Sedosa Acrobata sugere uma solução surpreendente.</desc>
     <category lang="pt">Anime</category>
     <image>https://example.com/dandadan-ep3.jpg</image> <!-- Substitua pela URL real da imagem -->
   </programme>
-    <programme start="20241118072200 +0000" stop="20241119102200 +0000" channel="dandadan03">
+    <programme start="20241118072200 +0000" stop="20241120102200 +0000" channel="dandadan03">
     <title lang="pt"></title>
     <desc lang="pt"></desc>
     <category lang="pt">Anime</category>
