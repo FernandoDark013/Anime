@@ -1,0 +1,20 @@
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta
+
+# Carregar o arquivo XML
+tree = ET.parse('blackclover.xml')
+root = tree.getroot()
+
+# Atualizar as datas dos programas
+current_time = datetime.utcnow()
+for programme in root.findall('programme'):
+    # Incrementar um dia para o próximo EPG
+    next_day = current_time + timedelta(days=1)
+    start_time = next_day.strftime('%Y%m%d%H%M%S') + ' +0000'
+    end_time = (next_day + timedelta(hours=2)).strftime('%Y%m%d%H%M%S') + ' +0000'  # Adiciona 2 horas ao tempo de início
+    programme.set('start', start_time)
+    programme.set('stop', end_time)
+    current_time = next_day  # Avançar para o próximo dia para o próximo programa
+
+# Salvar o arquivo XML atualizado
+tree.write('epg_updated.xml', encoding='utf-8', xml_declaration=True)
