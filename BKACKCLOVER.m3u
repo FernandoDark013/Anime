@@ -1,12 +1,84 @@
 #EXTM3U
 
  Esporte
-#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/espn.png" group-title="CANAIS | ESPORTES ", ESPN
 https://new.ejaculacaoretardada.site/espn/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 1
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 2
-#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 3
-#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 4
-#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 5/
-#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 6
+https://onplaytv.net/espn2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/espn.png" group-title="CANAIS | ESPORTES ", ESPN 3
+https://onplaytv.net/espn3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/espn.png" group-title="CANAIS | ESPORTES ", ESPN 4
+https://onplaytv.net/espn4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/espn.png" group-title="CANAIS | ESPORTES ", ESPN 5
+https://onplaytv.net/espn5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/assistir-espn-6-ao-vivo.webp" group-title="CANAIS | ESPORTES ", ESPN 6
+https://onplaytv.net/espn6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/sportv.webp" group-title="CANAIS | ESPORTES ", SPORTV 
+https://onplaytv.net/sportv/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/sportv.webp" group-title="CANAIS | ESPORTES ", SPORTV 2
+https://onplaytv.net/sportv2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/sportv.webp" group-title="CANAIS | ESPORTES ", SPORTV 3
+https://onplaytv.net/sportv3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",PREMIERE CLUBE
+https://onplaytv.net/premiereclubes/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",
+ CANAIS ABERTOS
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ", GLOBO SP
+https://onplaytv.net/globosp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ", GLOBO  RJ
+https://onplaytv.net/globorj/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ", GLOBO MG
+https://onplaytv.net/globomg/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ", BAND
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ",SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ABERTOS ",
 
+filmes e séries 
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/assistir-tnt-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",TNT
+https://onplaytv.net/tnt/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-tnt-series-ao-vivo-1.webp" group-title="CANAIS | FILMES E SÉRIE ",TNT SÉRIE 
+https://onplaytv.net/tntseries/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-warner-tv-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",WARNER TV
+https://onplaytv.net/warner/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/assistir-cinemax-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",CINEMAX
+https://onplaytv.net/cinemax/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/assistir-star-channel-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",STAR CHANNEL
+https://onplaytv.net/starchannel/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/assistir-ae-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",A&E
+https://onplaytv.net/aee/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-mundi-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO MUNDI
+https://onplaytv.net/hbomundi/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-plus-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO PLUS
+https://onplaytv.net/hboplus/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-family-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO FAMILY
+https://onplaytv.net/hbofamily/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-2-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO 2
+https://onplaytv.net/hbo2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-xtreme-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO XTREME
+https://onplaytv.net/hboxtreme/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-hbo-pop-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO POP
+https://onplaytv.net/hbopop/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/Assistir-HBO-Signature-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",HBO SIGNATURE
+https://onplaytv.net/hbosignature/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-sony-channel-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",SONY CHANNEL 
+https://onplaytv.net/sonychannel/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/08/assistir-studio-universal-ao-vivo.webp" group-title="CANAIS | FILMES E SÉRIE ",STUDIO UNIVERSAL
+https://onplaytv.net/studiouniversal/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | FILMES E SÉRIE ",UNIVERSAL TV
+https://onplaytv.net/universaltv/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | FILMES E SÉRIE ",  TC TOUCH
+https://onplaytv.net/tctouch/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | FILMES E SÉRIE ",TC PREMIUM
+https://onplaytv.net/tcpremium/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | FILMES E SÉRIE ",TC PIPOCA
+https://onplaytv.net/tcpipoca/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | FILMES E SÉRIE ",AXN
+https://onplaytv.net/axn/video.m3u8
+
+Filmes de terror
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://topflix.vc/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs4JzXuxmr_JplPsv3HBHmWQYjGrHlvlcp5hEPOHSYb_ptPRf8a8J02ncjEixP-DhOw.webp?w=370&h=556" group-title="FILMES | TERROR ",Bem-Vindo ao Círculo
+https://sempra.pro/a1/out/7/9616/9616_bem.vindo.ao.circulo.2020.1080p.web-dl.dual.2.0.m3u8?a=1
