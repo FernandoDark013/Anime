@@ -1,19 +1,12 @@
-O#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PLATAFORMA DE ANIME FERNANDO DARK", Fernando 
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/01.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 1
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/01-.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 2
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/02.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO 3
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/03.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  4
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/04.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  5
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/05.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  6
-https://cdn01-s1.mywallpaper-cdn-4k.com/stream/D/dandadan-dublado/06.mp4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DANDADAN", EPISÓDIO  7
-https://media.discordapp.net/attachments/1297287061799305216/1306779146562830376/DAN.DA.DAN.S01E07_720p.mp4.zeus1?ex=673f28ab&is=673dd72b&hm=b29f355f6cb224fac8cc6721855d2677fab27a8f232e77d00a55a84bf76bbca4&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | ESPORTES ", ESPN
-https://stream.ejaculacaoretardada.site/globosp/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTM3U
+
+ Esporte
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN
+https://new.ejaculacaoretardada.site/espn/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 5/
+#EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="" group-title="CANAIS | ESPORTES ", ESPN 6
+
