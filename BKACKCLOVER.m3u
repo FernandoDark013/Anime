@@ -1,4 +1,4 @@
-#EXTM3U
+I#EXTM3U
 
  Esporte
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/espn.png" group-title="CANAIS | ESPORTES ", ESPN
@@ -21,7 +21,7 @@ https://s2.100mundial.icu/token/f02d0129f90a5010b4a60937c6d1d284/nossoplayer.m3u
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2024/06/sportv.webp" group-title="CANAIS | ESPORTES ", SPORTV 3
 https://onplaytv.net/sportv3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",PREMIERE CLUBE
-https://s2.100mundial.icu/token/ff2ee68c80c3e299347185b3a591c6d6/nossoplayer.m3u8
+https://s2.100mundial.icu/token/1c1ce81003d933913b4a209ef4a12fff/embedtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",
 #EXTINF:-1 tvg-id="" tvg-name=""Ktvg-logo="https://supertvaovivo.fan/wp-content/uploads/2021/07/premiere.webp" group-title="CANAIS | ESPORTES ",
  CANAIS ABERTOS
